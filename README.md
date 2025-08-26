@@ -1,0 +1,1 @@
+Welcome! This repository contains hands-on AWS projects I've built to deepen my cloud computing skills and demonstrate practical knowledge across services like EC2, S3, IAM, EFS, Batch, and Elastic Beanstalk.
