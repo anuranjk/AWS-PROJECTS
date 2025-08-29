@@ -1,0 +1,2 @@
+cat $HOME/bitnami_application_password
+
